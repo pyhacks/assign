@@ -1,6 +1,5 @@
 from assign.transformer import AssignTransformer
 from assign.patch import patch_module
-import sys
 
 __all__ = ['custom_import']
 
